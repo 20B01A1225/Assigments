@@ -1,0 +1,82 @@
+.bgimage{
+                  background-image:url("foodimg.jpg");
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  position: fixed;
+                  height: 100%;
+                  width: 100%;
+              }
+              .layer{
+                  background-color: rgba(0,0,0,0.5);
+                  height: 120%;
+                  width: 120%;
+                 
+              }
+              .interior{
+                  color: white;
+                  position: relative;
+                  top:5px;
+              }
+              .button1{
+                  padding: 8px;
+                  width: 90px;
+                  position: relative;
+                  top:4px;
+              }
+              .main{
+                  color: white;
+                  position: relative;
+                  top:10px;
+              }
+              h1{
+                  font-size: 50px;
+                  color: white;
+                  position: relative;
+                  top: 50px;
+              }
+              .yellow{
+                  color: yellow;
+              }
+              .button2{
+                  padding: 8px;
+                  width: 90px;
+                  position: relative;
+                  bottom: 0px;
+                  left: 60px;
+              }
+              .button1:hover{
+                  background-color:rgb(50, 186, 190);
+              }
+              
+              .row1{
+                  position: relative;
+                  bottom: 350px;
+              }
+              .row2{
+                  position: relative;
+                  bottom: 370px;
+              }
+              .icon3{
+                  position: relative;
+                  bottom: 80px;
+                  }
+              .icon4{
+                  position: relative;
+                  bottom: 55px;
+              }
+              .icon5{
+                  position: relative;
+                  bottom: 30px;
+              }
+              .icon6{
+                  position: relative;
+                  bottom: 5px;
+              }
+              .icon1{
+                  position: relative;
+                  bottom: 170px;
+              }
+              .icon2{
+                  position: relative;
+                  bottom: 140px;
+              }
